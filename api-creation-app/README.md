@@ -4,6 +4,13 @@
 
 Creation of 3 Services including 4 CRUD endpoints per service.  
 
+## Input
+
+- List of system entities or existing code base to expose as API
+
+## Best Practice Assumptions
+-- Swagger for API Documentation
+
 ## Deliverables
 
 - API Documentation in Swagger
@@ -13,8 +20,11 @@ Creation of 3 Services including 4 CRUD endpoints per service.
 
 ## Challenges used
 
-- 1 Architecture 
-- 1 Testing Development 
+- 1 Architecture
+- 1 Testing Development
 - 4 Code challenges
 - 5 First 2 Finishses
 - 5 Tasks
+
+## Related packages
+- None
