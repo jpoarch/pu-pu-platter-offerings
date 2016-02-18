@@ -6,20 +6,23 @@ Build out a series of test cases for an application.
 
 ## Input
 
-- Input list
+- Access to the code or application being tested
+- Test Plan
+- Dev/Test environment or build scripts with access to code
 
 ## Best Practice Assumptions
-- Best Practice Assumptions
+-
 
 ## Exclusions
-- list of exclusions
-## Deliverables
+- None
 
-- list of exclusions
+## Deliverables
+- Test script
+- Test cases as code
+- Test Scripts result / report
 
 ## Challenges used
-
-- List of challenges
+- Test Development
 
 ## Related packages
 - List of related packages

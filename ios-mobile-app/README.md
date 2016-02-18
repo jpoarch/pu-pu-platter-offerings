@@ -1,35 +1,26 @@
-# ARCHITECTURE POC
+# iOS Mobile App
 
 ## Scope
 
-This package covers the implementation of an HTML5 application.
+Scope
 
 ## Input
 
-- Completed HTML5 Prototype
-- API Documentation
+- Input list
 
 ## Best Practice Assumptions
-- Ionic Framework
-- Hockeyapp Deployment
+- Best Practice Assumptions
 
 ## Exclusions
-- MDM
-
+- list of exclusions
 ## Deliverables
 
-- Implementation of HTML5 application
-- Build tooling
+- list of exclusions
 
 ## Challenges used
 
-- 1 Coding Challenge
-- 5 Tasks
--- Build setup
--- Fixes/Changes
+- List of challenges
 
 ## Related packages
+- List of related packages
 - [API Creation for Mobile Wrapper](../api-creation-app/README.md) for mobile wrapper
-- Additional [APIs](../api-creation-app/README.md) if no API exists
-- [Testing APIs](../api-creation-app/README.md) if no API exists
-- [HTML5 Prototype & Design Package](../clickable-ux-prototype/README.md)
