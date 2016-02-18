@@ -27,4 +27,4 @@ The Topcoder community will scour your application to find bugs and holes in you
 
 ## Related packages
 - List of related packages
-- [API Creation for Mobile Wrapper](../api-creation-app/README.md) for mobile wrapper
+- [Bug Bash](../bug-bash/README.md) for mobile wrapper

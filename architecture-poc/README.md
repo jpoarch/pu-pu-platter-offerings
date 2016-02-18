@@ -4,11 +4,14 @@
 
 Topcoder architecture proof of concepts are all about identifying things that will be hard to change.  These challenges are about proving out things that will be expensive to alter in the future.  These challenges will ask the community to implement a solution to test out a hypothesis and create an exemplar code base to model future work.  It is quite possible this work might be throw away but better to learn early than late.
 
+
 ## Inputs
 - Architectural Approach document
 
 ## Best Practice Assumptions
-- None
+- These challenges may be run throughout a project lifecycle to adapt and learn from the implementations of the project.
+- KISS - build the simplest architecture that can possibly work for now
+- 
 
 ## Exclusions
 - None

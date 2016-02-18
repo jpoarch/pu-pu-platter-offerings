@@ -1,20 +1,26 @@
-# API Creation
+# Clickable UX Prototype
 
 ## Scope
 
-Creation of 3 Services including 4 CRUD endpoints per service.  
+Take a graphical mockup and convert it to an HTML mockup.
+
+## Input
+
+- Graphical Mockups
+
+## Best Practice Assumptions
+- Deployed to web server
+
+## Exclusions
+- JavaScript code is prototype level
 
 ## Deliverables
 
-- API Documentation in Swagger
-- Mock interface for each service
-- Automated test cases for each API
-- Implementation of all defined services
+- Clickable HTML prototype
 
 ## Challenges used
 
-- 1 Architecture 
-- 1 Testing Development 
-- 4 Code challenges
-- 5 First 2 Finishses
-- 5 Tasks
+- Prototype
+
+## Related packages
+- List of related packages
