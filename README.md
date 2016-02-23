@@ -1,7 +1,6 @@
 # pu-pu-platter-offerings
 Welcome to our repo of mapping standard gameplans to offerings.
 ## Offerings
--
 - [Software Maintenance](/software-maintenance/README.md)
 
 ## Capabilities
