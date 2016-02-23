@@ -8,8 +8,8 @@ Welcome to our repo of mapping standard gameplans to offerings.
 ### Design
 
 #### Design Concepts
-- [Application Visual Design](/app-visual-design/README.md)
-- [Rapid User Experience Design (RUX)](/rapid-ux/README.md)
+- [Application Visual Design](/app-visual-design/README.md) *Draft*
+- [Rapid User Experience Design (RUX)](/rapid-ux/README.md) *Placeholder*
 
 #### Design Prototypes
 - [Clickable UX Prototype](/clickable-ux-prototype/README.md)
