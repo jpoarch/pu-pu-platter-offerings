@@ -31,6 +31,7 @@ Welcome to our repo of mapping standard gameplans to offerings.
 - [Cloud Migration / App Modernization](/cloud-migration/README.md)
 - [Development Work / Staff Augmentation](/dev-augmentation/README.md)
 - [Microservice Architecture](/microservice-architecture/README.md)
+- [Component & Service Reuse Catalog](/reuse-catalog/README.md)
 
 #### Testing
 - [Test Development](/test-development/README.md)
@@ -38,5 +39,10 @@ Welcome to our repo of mapping standard gameplans to offerings.
 - [Bug Hunt](/bug-hunt/README.md)
 
 ### Data Science
+- [SRMs / Real Time Algorithm Challenges](/srms/README.md)
+- [Productionalize Algorithm Results](/datascience-to-code/README.md)
+- [Algorithm Optimization](/algo-optimization/README.md)
+- [Image and Pattern Recognition](/image-recognition/README.md)
+- [Predictive Analytics](/predictive-analytics/README.md)
 
 ### Community Engagement
