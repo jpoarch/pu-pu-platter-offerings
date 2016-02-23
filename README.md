@@ -2,6 +2,7 @@
 Welcome to our repo of mapping standard gameplans to offerings.
 ## Offerings
 -
+- [Software Maintenance](/software-maintenance/README.md)
 
 ## Capabilities
 
@@ -24,10 +25,12 @@ Welcome to our repo of mapping standard gameplans to offerings.
 #### Production-Ready Code Development
 
 - [API Creation](/api-creation-app/README.md)
-
-
 - [HTML5 Mobile App](/html5-mobile-app/README.md)
 - [iOS Mobile App](/ios-mobile-app/README.md)
+- [Android Mobile App](/android-mobile-app/README.md)
+- [Web Application](/web-app/README.md)
+- [Cloud Migration / App Modernization](/cloud-migration/README.md)
+- [Development Work / Staff Augmentation](/dev-augmentation/README.md)
 - [Microservice Architecture](/microservice-architecture/README.md)
 
 #### Testing
