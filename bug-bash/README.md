@@ -2,7 +2,7 @@
 
 ## Scope
 
-Given a list of issues and access to the code repository.  The community will "squash" as many bugs as quickly as possible.
+Given a list of issues and access to the code repository.  The community will "squash" as many bugs as quickly as possible.  This will include ~85 bugs
 
 ## Input
 
