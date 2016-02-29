@@ -1,8 +1,8 @@
-# NAME
+# Software Maintenance
 
 ## Scope
 
-Scope
+Use the Topcoder Community to bash those bugs out of existence!  The Topcoder community will quickly and efficiently squash any listed bugs by updating your code and providing new unit test cases.
 
 ## Input
 
