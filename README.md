@@ -6,6 +6,8 @@ Welcome to our repo of mapping standard gameplans to offerings.
 - [Microservice Architecture](/microservice-architecture/README.md) *Placeholder*
 - [Innovation Catalyst](/innovation-offering/README.md) *Draft*
 - [Mobile Application](/mobile-app-dev/README.md) *Draft*
+- [Component & Service Reuse Catalog](/reuse-catalog/README.md) *Draft*
+- [Cloud Migration / App Modernization](/cloud-migration/README.md) *Placeholder*
 
 ## Capabilities
 
@@ -31,9 +33,7 @@ Welcome to our repo of mapping standard gameplans to offerings.
 - [iOS Mobile App](/ios-mobile-app/README.md) *Draft*
 - [Android Mobile App](/android-mobile-app/README.md) *Placeholder*
 - [Web Application](/web-app/README.md) *Placeholder*
-- [Cloud Migration / App Modernization](/cloud-migration/README.md) *Placeholder*
 - [Development Work / Staff Augmentation](/dev-augmentation/README.md) *Placeholder*
-- [Component & Service Reuse Catalog](/reuse-catalog/README.md) *Placeholder*
 
 #### Testing
 - [Test Development](/test-development/README.md) *Draft*
