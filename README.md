@@ -4,6 +4,8 @@ Welcome to our repo of mapping standard gameplans to offerings.
 - [Software Maintenance](/software-maintenance/README.md) *Draft*
 - [Proof of Concept / MVP](/app-mvp/README.md) *Draft*
 - [Microservice Architecture](/microservice-architecture/README.md) *Placeholder*
+- [Innovation Catalyst](/innovation-offering/README.md) *Draft*
+- [Mobile Application](/mobile-app-dev/README.md) *Draft*
 
 ## Capabilities
 
@@ -47,3 +49,4 @@ Welcome to our repo of mapping standard gameplans to offerings.
 
 ### Community Engagement
 - [Virtual Hackathons](/virtual-hackathons/README.md) *Placeholder*
+- [Marketing / Promotion](/marketing-promotion/README.md) *Placeholder*
