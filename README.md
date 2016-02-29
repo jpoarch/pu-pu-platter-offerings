@@ -1,7 +1,10 @@
 # pu-pu-platter-offerings
 Welcome to our repo of mapping standard gameplans to offerings.
 ## Offerings
-- [Software Maintenance](/software-maintenance/README.md) *Placeholder*
+- [Software Maintenance](/software-maintenance/README.md) *Draft*
+- [Proof of Concept / MVP](/app-mvp/README.md) *Draft*
+- [Microservice Architecture](/microservice-architecture/README.md) *Placeholder*
+- [Innovation Catalyst](/innovation-offering/README.md) *Draft*
 
 ## Capabilities
 
@@ -19,7 +22,6 @@ Welcome to our repo of mapping standard gameplans to offerings.
 
 #### Development Prototypes
 - [Architecture POC](/architecture-poc/README.md) *Draft*
-- [Proof of Concept / MVP](/app-mvp/README.md) *Placeholder*
 
 #### Production-Ready Code Development
 
@@ -30,7 +32,6 @@ Welcome to our repo of mapping standard gameplans to offerings.
 - [Web Application](/web-app/README.md) *Placeholder*
 - [Cloud Migration / App Modernization](/cloud-migration/README.md) *Placeholder*
 - [Development Work / Staff Augmentation](/dev-augmentation/README.md) *Placeholder*
-- [Microservice Architecture](/microservice-architecture/README.md) *Placeholder*
 - [Component & Service Reuse Catalog](/reuse-catalog/README.md) *Placeholder*
 
 #### Testing
