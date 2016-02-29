@@ -1,21 +1,26 @@
-# NAME
+# Minimum Viable Product (MVP) / Proof of Concept (POC)
 
 ## Scope
 
-Scope
+Test the functionality of your application with working code.  With or without a full clickable prototype, our Topcoder Community will develop the code that lets you see how your application will function and integrate with your systems.
 
 ## Input
 
-- Input list
+- HTML prototype
+- Architecture specification / approach Documentation
+- Design mockups
 
 ## Best Practice Assumptions
-- Best Practice Assumptions
+- Graphic design work is completed to get a nice UX for the MVP
+-  
 
 ## Exclusions
-- list of exclusions
+- None
+
 ## Deliverables
 
-- list of exclusions
+- Deployment guide
+- Working code
 
 ## Challenges used
 

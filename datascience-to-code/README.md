@@ -1,4 +1,4 @@
-# NAME
+# Algorithm implementation
 
 ## Scope
 

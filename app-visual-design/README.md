@@ -1,8 +1,7 @@
-# NAME
-
+# Application Visual Design
 ## Scope
 
-Scope
+Use the Topcoder community to translate your app requirements into a multi-screen visual design.  Describe your mobile app and let the community compete to give you multiple design options that use your brand standards.
 
 ## Input
 

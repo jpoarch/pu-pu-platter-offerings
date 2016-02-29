@@ -1,4 +1,4 @@
-# ARCHITECTURE POC
+# HTML 5 Mobile development
 
 ## Scope
 
@@ -25,11 +25,11 @@ This package covers the implementation of an HTML5 application.
 
 - 1 Coding Challenge
 - 5 Tasks
--- Build setup
--- Fixes/Changes
+  - Build setup
+  - Fixes/Changes
 
 ## Related packages
 - [API Creation for Mobile Wrapper](../api-creation-app/README.md) for mobile wrapper
 - Additional [APIs](../api-creation-app/README.md) if no API exists
-- [Testing APIs](../api-creation-app/README.md) if no API exists
+- [Testing ](../test-development/README.md)
 - [HTML5 Prototype & Design Package](../clickable-ux-prototype/README.md)

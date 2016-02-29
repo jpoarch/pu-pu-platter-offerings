@@ -1,4 +1,4 @@
-# NAME
+# Image Recognition
 
 ## Scope
 
