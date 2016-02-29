@@ -2,7 +2,7 @@
 
 ## Scope
 
-Given a list of issues and access to the code repository.  The community will "squash" as many bugs as quickly as possible.  This will include ~85 bugs
+Given a list of issues and access to the code repository.  The community will "squash" as many bugs as quickly as possible.  This will include ~85 bugs.
 
 ## Input
 
@@ -16,12 +16,10 @@ Given a list of issues and access to the code repository.  The community will "s
 - None
 
 ## Deliverables
-
 - Code patch (via pull request)
 - Test case
 
 ## Challenges used
-
 - (# of bugs) Tasks
 
 ## Related packages

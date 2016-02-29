@@ -1,26 +1,27 @@
-# NAME
+# Staff / Deliverable Augmentation
 
 ## Scope
 
-Scope
+Is your team overloaded?  Need some extra hands at work?  Assign a unit of work to our 900K+ community and we'll follow our best practices to quickly turn around some code for you. This could be managed or unmanaged (with or without CA for a higher price point)
 
 ## Input
 
-- Input list
+- Specification of work to be completed
+- Access to necessary code and/or environments
 
 ## Best Practice Assumptions
-- Best Practice Assumptions
+- Work can be completed stand alone
+- Workers can stand up in environment in 15 minutes or less.
 
 ## Exclusions
-- list of exclusions
-## Deliverables
+- None
 
-- list of exclusions
+## Deliverables
+- Completed code
 
 ## Challenges used
-
-- List of challenges
+- Code
+- Testing
 
 ## Related packages
-- List of related packages
-- [API Creation for Mobile Wrapper](../api-creation-app/README.md) for mobile wrapper
+- None

@@ -2,7 +2,7 @@
 
 ## Scope
 
-Scope
+Implement an iOS application in either Swift or Objective-C
 
 ## Input
 
