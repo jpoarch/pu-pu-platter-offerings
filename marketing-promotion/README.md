@@ -1,8 +1,8 @@
-# NAME
+# Marketing Promotion
 
 ## Scope
 
-Scope
+Want to build community loyalty?  Work with our team to advertise and build a loyalty based incentive program to drive users to your work.  These include  your own minisite/content, TCO trips, Code Blitzs, customized leaderboards and other incentives.
 
 ## Input
 

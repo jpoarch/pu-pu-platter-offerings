@@ -7,18 +7,28 @@ Competition spurs innovation. The combination of your projects teams and the Top
 ## Input
 
 - Ideas!  Your best ideas to get implemented!
-
+- Technology enabled demos are best used for working with existing code bases if your project involves an existing application.  
 ## Best Practice Assumptions
 - Weekly meetings scheduled in advance
 - Dedicated Information and Challenge Architect
+
 
 ## Exclusions
 - Produces MVPs
 
 ## Deliverables
 
-- Functional MVP of your idea
+- We support two tracks
+  - Graphical MVP
+    - Wireframes
+    - Graphical Mockups
+    - Source code
+    - Deployable MVP
+  - Technology enabled demo
+    - 4 Software development challenges
 
 ## Related packages
 - List of related packages
 - 15 [Application MVPs](../app-mvp/README.md)
+or
+- # of packages * 4 [Software development challenges](../dev-augmentation/README.md)

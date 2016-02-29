@@ -6,27 +6,19 @@ Need a new mobile application?  HTML5, Android, iOS or all of the above?  Using 
 
 ## Input
 
--
 - API Documentation
 
 ## Best Practice Assumptions
-- Ionic Framework
-- Hockeyapp Deployment
+- Design and prototype in HTML5 before moving to native applications if building more than one will reduce costs.
 
 ## Exclusions
 - MDM
+- App store integration
 
 ## Deliverables
 
-- Implementation of HTML5 application
+- Implementation of an application
 - Build tooling
-
-## Challenges used
-
-- 1 Coding Challenge
-- 5 Tasks
-  - Build setup
-  - Fixes/Changes
 
 ## Packages
 - [API Creation for Mobile Wrapper](../api-creation-app/README.md) for mobile wrapper
