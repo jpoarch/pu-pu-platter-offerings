@@ -13,6 +13,7 @@ Ready to see who is the best in the Topcoder Community in your technology?  Read
 
 ## Exclusions
 - list of exclusions
+
 ## Deliverables
 
 - list of exclusions

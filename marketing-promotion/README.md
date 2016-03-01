@@ -13,6 +13,7 @@ Want to build community loyalty?  Work with our team to advertise and build a lo
 
 ## Exclusions
 - list of exclusions
+
 ## Deliverables
 
 - list of exclusions

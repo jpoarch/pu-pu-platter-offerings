@@ -6,21 +6,31 @@ Create a comprehensive decomposition and microservices approach to building your
 
 ## Input
 
-- Input list
+- Domain Modeling
 
 ## Best Practice Assumptions
 - an API Gateway will be selected
--
+- Feature Flag implementation
+- Rolling updates / Blue - Green deployments
 
 ## Exclusions
 - list of exclusions
+
 ## Deliverables
-- list of exclusions
+- API Testing
+- Developed APIs
+- Configured API Gateway
+- Infrastructure Deployment Scripts
+  - Dev Pipeline / CI tooling
+  - Configuration of Monitoring
+  - Infrastructure Scripting / Container Creation
+- Service Discovery System configuration
 
 ## Challenges used
 
-- List of challenges
+-
 
 ## Related packages
 - 5 [API Creation packages](../api-creation-app/README.md)
-- 
+- [Test Development](../test-development/README.md)
+- [Infrastructure Automation](../infrastructure-automation/README.md)

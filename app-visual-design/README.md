@@ -12,6 +12,7 @@ Use the Topcoder community to translate your app requirements into a multi-scree
 
 ## Exclusions
 - list of exclusions
+
 ## Deliverables
 
 - list of exclusions

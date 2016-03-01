@@ -15,6 +15,7 @@ If the community is maintaining / creating your reuse catalog, Topcoder expects 
 
 ## Exclusions
 - list of exclusions
+
 ## Deliverables
 
 - list of exclusions

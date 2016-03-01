@@ -1,4 +1,4 @@
-# Wireframes 
+# Wireframes
 
 ## Scope
 
@@ -13,6 +13,7 @@ Scope
 
 ## Exclusions
 - list of exclusions
+
 ## Deliverables
 
 - list of exclusions

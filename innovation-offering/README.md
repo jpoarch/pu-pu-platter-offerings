@@ -8,6 +8,7 @@ Competition spurs innovation. The combination of your projects teams and the Top
 
 - Ideas!  Your best ideas to get implemented!
 - Technology enabled demos are best used for working with existing code bases if your project involves an existing application.  
+
 ## Best Practice Assumptions
 - Weekly meetings scheduled in advance
 - Dedicated Information and Challenge Architect
@@ -30,5 +31,7 @@ Competition spurs innovation. The combination of your projects teams and the Top
 ## Related packages
 - List of related packages
 - 15 [Application MVPs](../app-mvp/README.md)
+
 or
+
 - # of packages * 4 [Software development challenges](../dev-augmentation/README.md)
