@@ -7,13 +7,13 @@ Welcome to our repo of mapping standard gameplans to offerings.
 - [Innovation Catalyst](/innovation-offering/README.md) *Draft*
 
 ### System development
-- [Mobile Application](/mobile-app-dev/README.md) *Draft*
 - [Software Maintenance](/software-maintenance/README.md) *Draft*
 - [Microservice Architecture & Implementation](/microservice-architecture/README.md) *Placeholder*
 - [Cloud Migration / App Modernization](/cloud-migration/README.md) *Placeholder*
 - [Component & Service Reuse Catalog](/reuse-catalog/README.md) *Draft*
 
 ### Consumer
+- [Mobile Application](/mobile-app-dev/README.md) *Draft*
 
 ## Capabilities
 
