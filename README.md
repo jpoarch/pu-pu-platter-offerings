@@ -5,12 +5,14 @@ Welcome to our repo of mapping standard gameplans to offerings.
 ### Incremental development
 - [Proof of Concept / MVP](/app-mvp/README.md) *Draft*
 - [Innovation Catalyst](/innovation-offering/README.md) *Draft*
+
 ### System development
 - [Mobile Application](/mobile-app-dev/README.md) *Draft*
 - [Software Maintenance](/software-maintenance/README.md) *Draft*
 - [Microservice Architecture & Implementation](/microservice-architecture/README.md) *Placeholder*
 - [Cloud Migration / App Modernization](/cloud-migration/README.md) *Placeholder*
 - [Component & Service Reuse Catalog](/reuse-catalog/README.md) *Draft*
+
 ### Consumer
 
 ## Capabilities
@@ -37,7 +39,8 @@ Welcome to our repo of mapping standard gameplans to offerings.
 - [iOS Mobile App](/ios-mobile-app/README.md) *Draft*
 - [Android Mobile App](/android-mobile-app/README.md) *Placeholder*
 - [Web Application](/web-app/README.md) *Placeholder*
-- [Development Work / Staff Augmentation](/dev-augmentation/README.md) *Placeholder*
+- [Development Work / Staff Augmentation](/dev-augmentation/README.md) *Draft*
+- [Infrastructure Automation](/infrastructure-automation/README.md) *Draft*
 
 #### Testing
 - [Test Development](/test-development/README.md) *Draft*
@@ -45,7 +48,7 @@ Welcome to our repo of mapping standard gameplans to offerings.
 - [Bug Hunt](/bug-hunt/README.md) *Draft*
 
 ### Data Science
-- [SRMs / Real Time Algorithm Challenges](/srms/README.md) *Placeholder*
+- [SRMs / Real Time Algorithm Challenges](/srms/README.md) *Draft*
 - [Productionalize Algorithm Results](/datascience-to-code/README.md) *Placeholder*
 - [Algorithm Optimization](/algo-optimization/README.md) *Placeholder*
 - [Image and Pattern Recognition](/image-recognition/README.md) *Placeholder*
