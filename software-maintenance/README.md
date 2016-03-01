@@ -20,13 +20,10 @@ In order for the community to effectively support your application it needs to h
 - list of exclusions
 
 ## Deliverables
-
 - list of exclusions
 
 ## Challenges used
-
 - List of challenges
 
 ## Related packages
 - List of related packages
-- [API Creation for Mobile Wrapper](../api-creation-app/README.md) for mobile wrapper

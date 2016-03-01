@@ -13,6 +13,7 @@ Implement an iOS application in either Swift or Objective-C
 
 ## Exclusions
 - list of exclusions
+
 ## Deliverables
 
 - list of exclusions

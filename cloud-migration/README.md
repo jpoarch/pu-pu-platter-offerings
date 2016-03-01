@@ -13,6 +13,7 @@ Revitalize your old application by moving it to the cloud!  Select from one of o
 
 ## Exclusions
 - list of exclusions
+
 ## Deliverables
 
 - list of exclusions

@@ -9,7 +9,8 @@ We provide two ways for companies to get involved in these exciting events.  The
 - sponsor regional event as part of the TCO
 - sponsor the TCO finals
 
-* BOLD DO WE WANT TO DO THIS*
+##### BOLD DO WE WANT TO DO THIS
+
 The last option is to run a private internal SRM (either virtually or in person)
 
 ## Input
